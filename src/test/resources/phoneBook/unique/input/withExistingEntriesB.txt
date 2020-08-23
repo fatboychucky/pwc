@@ -1,0 +1,2 @@
+PhonebookEntry(name=Danny O'Connell, number=null)
+PhonebookEntry(name=William Shakesphere, number=+1 02 1234 5668)

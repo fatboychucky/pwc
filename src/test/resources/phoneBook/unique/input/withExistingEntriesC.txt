@@ -1,0 +1,3 @@
+PhonebookEntry(name=Angela McDowell, number=0418100200)
+PhonebookEntry(name=Danny O'Connell, number=null)
+PhonebookEntry(name=Shaun Gate, number=28834#1)

@@ -1,0 +1,5 @@
+PhonebookEntry(name=Angela McDowell, number=0418100200)
+PhonebookEntry(name=John Citizen, number=0414557988)
+PhonebookEntry(name=Danny O'Connell, number=null)
+PhonebookEntry(name=Dr. William Vo, number=+61 (02) 8834 5647))
+PhonebookEntry(name=Shanz Gate, number=38888#1))

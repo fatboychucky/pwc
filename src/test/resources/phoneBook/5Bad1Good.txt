@@ -1,0 +1,6 @@
+PhonebookEntry(name=Angela McDowell, number=0418100200?)
+PhonebookEntry(name=John-Citizen Paul*, number=0414557988)
+PhonebookEntry(name=Danny O'Conn''.+ell, number=null)
+PhonebookEntry(name=George W. Bush Junior, number=+61 (02) 9800-2333)
+PhonebookEntry(name=Dr. William Vo, number=-+61 *(02) 883A4 5647))
+PhonebookEntry(name=Dr. William Vo, number=+61 (02) 8834=5647))
